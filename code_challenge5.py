@@ -1,5 +1,4 @@
 #Calculate the factorial
-import os
 print("\nFactorial Calculator")
 
 number = eval(input("\nEnter a number to get the factorial -->"))
