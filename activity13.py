@@ -1,4 +1,3 @@
-
 #Ask the user to input 10 numbers.
 #After get the summation of all the numbers provided.
 

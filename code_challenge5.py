@@ -1,14 +1,8 @@
 
-#Calculate the factorial
-import os
-print("\nFactorial Calculator")
-
-number = eval(input("\nEnter a number to get the factorial -->"))
-os.system('cls')
-
 factorial = 1
+number = eval(input("Enter a number to get the factorial -->"))
 
 for i in range(number,0,-1):
     factorial *= i
 
-print("The factorial of",number,"is",factorial) 
+print("The factorial of",number,"is",factorial)
