@@ -2,5 +2,6 @@ Name: John Manuel C. Andog
 Age: 19 
 Favorite food: Tofu, Pande Coco, and Kwek kwek
 Hobbies: reading and playing guitar
-Favorite anime: Kimetsu no Yaiba
+Favorite anime: Kimetsu no Yaiba and My Hero Academia
+
 Course: BSIT
